@@ -16,7 +16,12 @@
   </a>
 </p>
 
-<br/><br/>
+<br/>
+
+<div align="center"> ✉Contect✉</div>
+<p align="center">isylsy166@gamil.com</p>
+
+<br/>
 
 <p align="center"> 🛠Tech Stack🛠</p>
 
