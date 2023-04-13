@@ -42,6 +42,11 @@
    <img src="https://img.shields.io/badge/next.js-8D5A9E?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
 </p>
 
+<br/><br/><br/>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=isylsy166&show_icons=true&theme=radical)
+
+
 
 
 
