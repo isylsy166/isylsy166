@@ -1,6 +1,6 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=260&section=header&text=Hi%20there👋&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=260&section=header&text=Welcome👋&fontSize=90)
 
 ### 🍒Me🍒
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fisylsy166%2Fhit-counter&count_bg=%23FFB6B6&title_bg=%239C9C9C&icon=baidu.svg&icon_color=%23FFFFFF&title=Hi&edge_flat=false)](https://hits.seeyoufarm.com)
