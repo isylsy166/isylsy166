@@ -22,7 +22,7 @@
 ### ✉Contect✉
 <p>isylsy166@gamil.com</p>
 
-<br/><br/>
+<br/>
 
 ### 🛠Tech Stack🛠
 <div>
@@ -42,12 +42,10 @@
 </p>
 </div>
 
-
-
-<br/><br/>
+<br/>
 
 ### 🌱GitHub stats
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=isylsy166&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=isylsy166&show_icons=true&theme=dracula)
 
  
    
