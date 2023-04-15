@@ -30,10 +30,10 @@
   <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=Html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS-3DAD4B?style=for-the-badge&logo=Css3&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white"/>
+ <img src="https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
 </p>
 
 <p>    
-   <img src="https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
    <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=blue"/>
    <img src="https://img.shields.io/badge/next.js-8D5A9E?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
 </p>
