@@ -20,7 +20,7 @@
 <br/>
 
 ### ✉Contect✉
-<p>isylsy166@gamil.com</p>
+<p>isylsy166@gmail.com</p>
 
 <br/>
 
