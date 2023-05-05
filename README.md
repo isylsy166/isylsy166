@@ -36,11 +36,7 @@
 <p>    
    <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=blue"/>
    <img src="https://img.shields.io/badge/next.js-8D5A9E?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
-</p>
- 
-  <p>
-  <img src="https://img.shields.io/badge/graphql-E10098?style=for-the-badge&logo=graphql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/rest api-3693F3?style=for-the-badge&logo=icloud&logoColor=white"/>
+   <img src="https://img.shields.io/badge/graphql-E10098?style=for-the-badge&logo=graphql&logoColor=white"/>
 </p>
  
 </div>
