@@ -51,7 +51,7 @@
 <br/>
 
 ### 🌱GitHub stats
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=isylsy166&show_icons=true&theme=dracula)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=isylsy166&show_icons=true&theme=dracula) <br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=isylsy166&layout=compact&theme=dracula&langs_count=4)](https://github.com/anuraghazra/github-readme-stats)
  
    
