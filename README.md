@@ -8,7 +8,7 @@
    <a href="https://sy-blog.tistory.com/" target="_blank">
    <img src="https://img.shields.io/badge/Blog-466BB0?style=for-the-badge&logo=Blogger&logoColor=white"/>
 
-   <a href="https://www.instagram.com/s0y20n_/" target="_blank">
+   <a href="https://www.instagram.com/_soyeon2__/" target="_blank">
     <img src="https://img.shields.io/badge/instagram-EF2D5E?style=for-the-badge&logo=Instagram&logoColor=white"/>
    </a>
   
