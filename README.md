@@ -8,10 +8,6 @@
    <a href="https://sy-blog.tistory.com/" target="_blank">
    <img src="https://img.shields.io/badge/Blog-466BB0?style=for-the-badge&logo=Blogger&logoColor=white"/>
 
-   <a href="https://www.instagram.com/__soyeon2_/" target="_blank">
-    <img src="https://img.shields.io/badge/instagram-EF2D5E?style=for-the-badge&logo=Instagram&logoColor=white"/>
-   </a>
-  
    <a href="https://github.com/isylsy166" target="_blank">
     <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=Github&logoColor=white"/>
    </a>
