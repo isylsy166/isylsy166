@@ -4,14 +4,7 @@
 
 ### 🍒Me🍒
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fisylsy166%2Fhit-counter&count_bg=%23FFB6B6&title_bg=%239C9C9C&icon=baidu.svg&icon_color=%23FFFFFF&title=Hi&edge_flat=false)](https://hits.seeyoufarm.com)
- <div>
-   <a href="https://sy-blog.tistory.com/" target="_blank">
-   <img src="https://img.shields.io/badge/Blog-466BB0?style=for-the-badge&logo=Blogger&logoColor=white"/>
 
-   <a href="https://github.com/isylsy166" target="_blank">
-    <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=Github&logoColor=white"/>
-   </a>
-</div>
 
 <br/>
 
