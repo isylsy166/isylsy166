@@ -3,13 +3,11 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=260&section=header&text=Welcome👋&fontSize=90)
 
 ### 🍒Me🍒
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fisylsy166%2Fhit-counter&count_bg=%23FFB6B6&title_bg=%239C9C9C&icon=baidu.svg&icon_color=%23FFFFFF&title=Hi&edge_flat=false)](https://hits.seeyoufarm.com)
+
 
 
 <br/>
 
-### ✉Contect✉
-<p>isylsy166@gmail.com</p>
 
 <br/>
 
@@ -40,7 +38,9 @@
 <br/>
 
 ### 🌱GitHub stats
+
  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=isylsy166&show_icons=true&theme=dracula)
+ <br/>
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=isylsy166&layout=compact&theme=dracula&langs_count=4)](https://github.com/anuraghazra/github-readme-stats)
 
    
