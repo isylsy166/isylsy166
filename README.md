@@ -42,7 +42,7 @@ I'm a web developer developing using the following tech stacks
 
 <h3>currently studying</h3>
 
-👉🏻 [Frontend Reoadmap](https://frontend-roadmap-soyeon.netlify.app)
+👉🏻 [Frontend Roadmap](https://frontend-roadmap-soyeon.netlify.app)
 
 
 <br/>
