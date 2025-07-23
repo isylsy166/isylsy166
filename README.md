@@ -8,7 +8,7 @@ Welcome to my GitHub page!
 
 Here's what I use to bring ideas to life on the web 👇
 
-Swing by my blog if you're curious! 👉🏻 [My Blog](https://accidental-thumb-deb.notion.site/Dev-BLOG-1d77bb3b3a0f80f4b50dfa33b199046f)
+Swing by my blog if you're curious! 👉🏻 [My Blog](https://soyeon-devlog.super.site/)
 
 <br/><br/>
 
