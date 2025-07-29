@@ -1,0 +1,15 @@
+name: Generate 3D Contribution Graph
+
+on:
+  schedule:
+    - cron: '0 0 * * *' # 매일 자정 실행
+  workflow_dispatch: # 수동 실행도 가능
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Generate 3D Contribution Graph
+        uses: yassinebridi/3d-contrib@main
+        with:
+          token: ${{ secrets.GH_TOKEN }}
