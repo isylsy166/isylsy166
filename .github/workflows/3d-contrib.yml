@@ -35,5 +35,8 @@ jobs:
 
       - name: Commit & Push SVG
         run: |
-          git config user.name "isylsy166"
-          git config user.email "isylsy166@gmail.com
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add profile-3d-contrib/profile-3d-contrib.svg
+          git commit -m "chore: update 3D contribution graph" || echo "no changes"
+          git push
