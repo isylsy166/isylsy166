@@ -35,5 +35,5 @@ jobs:
 
       - name: Commit & Push SVG
         run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "41898282+github-act
+          git config user.name "isylsy166"
+          git config user.email "isylsy166@gmail.com
