@@ -2,8 +2,8 @@ name: Generate 3D Contribution Graph
 
 on:
   schedule:
-    - cron: '0 0 * * *'
-  workflow_dispatch:
+    - cron: '0 0 * * *' # 매일 자정 자동 실행
+  workflow_dispatch: # 수동 실행 가능
 
 jobs:
   build:
@@ -31,7 +31,7 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
         run: |
           cd profile-3d-contrib
-          node dist/index.js --user isylsy166 --preset dark-purple
+          node dist/index.js --user isylsy166 --preset dark-purple --token $GITHUB_TOKEN
 
       - name: Commit & Push SVG
         run: |
