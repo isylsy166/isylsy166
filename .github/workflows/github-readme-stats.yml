@@ -1,18 +1,45 @@
-name: GitHub Readme Stats
+name: Generate GitHub Readme Stats
 
 on:
   workflow_dispatch:
   schedule:
-    - cron: "0 0 * * *" # 매일 00:00 UTC
+    - cron: "0 0 * * *" # 하루 1번
 
 jobs:
-  generate-stats:
+  build:
     runs-on: ubuntu-latest
+
     steps:
-      - name: Checkout
+      - name: Checkout profile repo
         uses: actions/checkout@v4
 
-      - name: Generate GitHub Readme Stats
-        uses: anuraghazra/github-readme-stats@v1
+      - name: Checkout github-readme-stats
+        uses: actions/checkout@v4
         with:
+          repository: isylsy166/github-readme-stats
+          path: github-readme-stats
+
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: 22
+
+      - name: Install dependencies
+        run: npm ci
+        working-directory: github-readme-stats
+
+      - name: Generate stats SVG
+        run: |
+          node github-readme-stats/scripts/generateStats.js \
+            --username isylsy166 \
+            --output ../stats.svg
+        env:
           GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
+
+      - name: Commit SVG
+        run: |
+          git config user.name "github-actions"
+          git config user.email "github-actions@github.com"
+          git add stats.svg
+          git commit -m "chore: update github stats" || echo "No changes"
+          git push
