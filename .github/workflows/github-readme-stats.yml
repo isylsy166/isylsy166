@@ -1,0 +1,15 @@
+name: GitHub Readme Stats
+
+on:
+  schedule:
+    - cron: "0 */24 * * *"  # 24시간마다 실행
+  workflow_dispatch:
+
+jobs:
+  generate-stats:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Generate GitHub Readme Stats
+        uses: anuraghazra/github-readme-stats@master
+        env:
+          GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
