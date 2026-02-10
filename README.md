@@ -47,9 +47,7 @@ Swing by my blog if you're curious! 👉🏻 [My Blog](https://soyeon-devlog.sup
 <!-- ### 🌱GitHub stats -->
 
  <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=isylsy166&show_icons=true&theme=dracula) -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=isylsy166&layout=compact&theme=dracula&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
-
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=isylsy166&cache_seconds=86400layout=compact&theme=dracula&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
 
